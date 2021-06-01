@@ -1,0 +1,10 @@
+LibTest
+    \_ Scripts
+        \_ add.c
+        \_ sub.c
+        
+    \_ add.o
+    \_ sub.o
+    \_ add.h
+    \_ sub.h
+    \_ comp.sh

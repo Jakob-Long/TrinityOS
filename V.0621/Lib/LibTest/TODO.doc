@@ -1,0 +1,698 @@
+			 <html xmlns:v="urn:schemas-microsoft-com:vml"
+			xmlns:o="urn:schemas-microsoft-com:office:office"
+			xmlns:w="urn:schemas-microsoft-com:office:word"
+			xmlns="http://www.w3.org/TR/REC-html40">
+			
+			<head>
+			<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+			<meta name=ProgId content=Word.Document>
+			<meta name=Generator content="Microsoft Word 9">
+			<meta name=Originator content="Microsoft Word 9">
+			<!--[if !mso]>
+			<style>
+			v\:* {behavior:url(#default#VML);}
+			o\:* {behavior:url(#default#VML);}
+			w\:* {behavior:url(#default#VML);}
+			.shape {behavior:url(#default#VML);}
+			</style>
+			<![endif]-->
+			<title></title>
+			<!--[if gte mso 9]><xml>
+			 <w:WordDocument>
+			  <w:View>Print</w:View>
+			  <w:DoNotHyphenateCaps/>
+			  <w:PunctuationKerning/>
+			  <w:DrawingGridHorizontalSpacing>9.35 pt</w:DrawingGridHorizontalSpacing>
+			  <w:DrawingGridVerticalSpacing>9.35 pt</w:DrawingGridVerticalSpacing>
+			 </w:WordDocument>
+			</xml><![endif]-->
+			<style>
+			<!--
+			 /* Font Definitions */
+			@font-face
+				{font-family:Verdana;
+				panose-1:2 11 6 4 3 5 4 4 2 4;
+				mso-font-charset:0;
+				mso-generic-font-family:swiss;
+				mso-font-pitch:variable;
+				mso-font-signature:536871559 0 0 0 415 0;}
+			 /* Style Definitions */
+			p.MsoNormal, li.MsoNormal, div.MsoNormal
+				{mso-style-parent:"";
+				margin:0in;
+				margin-bottom:.0001pt;
+				mso-pagination:widow-orphan;
+				font-size:7.5pt;
+			        mso-bidi-font-size:8.0pt;
+				font-family:"Verdana";
+				mso-fareast-font-family:"Verdana";}
+			p.small
+				{mso-style-parent:"";
+				margin:0in;
+				margin-bottom:.0001pt;
+				mso-pagination:widow-orphan;
+				font-size:1.0pt;
+			        mso-bidi-font-size:1.0pt;
+				font-family:"Verdana";
+				mso-fareast-font-family:"Verdana";}
+			@page Section1
+				{size:8.5in 11.0in;
+				margin:1.0in 1.25in 1.0in 1.25in;
+				mso-header-margin:.5in;
+				mso-footer-margin:.5in;
+				mso-paper-source:0;}
+			div.Section1
+				{page:Section1;}
+			-->
+			</style>
+			<!--[if gte mso 9]><xml>
+			 <o:shapedefaults v:ext="edit" spidmax="1032">
+			  <o:colormenu v:ext="edit" strokecolor="none"/>
+			 </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+			 <o:shapelayout v:ext="edit">
+			  <o:idmap v:ext="edit" data="1"/>
+			 </o:shapelayout></xml><![endif]-->
+			 
+			</head>
+			<body><p><strong>TODO</strong></p>
+<ol>
+<li>Make file in UserLand to test libraries</li>
+<li>Download LibTest and save it to Lib folder</li>
+<li>Port LibTest to TrinityOS</li>
+</ol></body></html><!DOCTYPE html><html lang="en">
+<head>
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Online Text Editor - Plain text editor / Wordpad online</title>
+<meta name="description" content="Online Text Editor tool used as a plain text editor and as a wordpad online. It is the best editpad online.">
+<meta property="og:image" content="https://www.prepostseo.com/imgs/social-imgs/online-text-editor.png" />
+<meta name="Robots" content="INDEX, FOLLOW">
+<meta name="Publisher" content="PrePost SEO"><meta name="Revisit-After" content="7 Days"><meta name="Rating" content="General">
+<link rel="dns-prefetch" href="https://fonts.gstatic.com">
+<link rel="dns-prefetch" href="https://ajax.googleapis.com">
+<link rel="dns-prefetch" href='https://apis.google.com'>
+<link rel="dns-prefetch" href='https://www.gstatic.com'>
+<link rel="dns-prefetch" href='https://fonts.googleapis.com'>
+<link href="https://www.prepostseo.com/imgs/icon-2.png" rel="icon" type="image/x-icon" />
+<link href="https://www.prepostseo.com/assets/pps-frontend/lib/theme.css?v=5.7.0.9.12" rel="stylesheet">
+
+<link rel="canonical" href="https://www.prepostseo.com/tool/online-text-editor" /><link rel="alternate" hreflang="x-default" href="https://www.prepostseo.com/tool/online-text-editor" /><link rel="alternate" hreflang="en" href="https://www.prepostseo.com/tool/online-text-editor" /><link rel="alternate" hreflang="es" href="https://www.prepostseo.com/tool/es/online-text-editor" /><script type="text/javascript">
+function docReady(fn) {
+    if (document.readyState === "complete" || document.readyState === "interactive") {
+        setTimeout(fn, 1);
+    } else {
+        document.addEventListener("DOMContentLoaded", fn);
+    }
+} 
+var base_url = "https://www.prepostseo.com/";
+var tool_name = "Online Text Editor";
+var adblocker = 0;
+var tool_title = "Online Text Editor";
+
+</script>
+
+
+</head>
+<body>
+<div class="fw">
+    <div class="model-bg"></div><div class="model-box"><span class="model-heading"></span><div class="model-body"> </div> <div class="line"></div> <span class="close-model">X</span><div class="model-footer">If you need any help please <a href="https://www.prepostseo.com/contact" target="_blank">contact us</a></div> </div>
+<script>
+	docReady(function(e) {
+		$(".model-bg").click(function(){$(".model-box").hide();$(this).fadeOut(800);});
+		$(".close-model").click(function(){$(".model-box").hide();$(".model-bg").fadeOut(800);});
+		
+	});
+		function showModel(title, data){$(".model-heading").html(title);$(".model-body").html(data);$(".model-box").fadeIn(500);$(".model-bg").show();}
+</script>	
+	<header>
+    
+
+<div class="container-fluid noP" style="position:relative;">
+<div class="container top-bar noP clear">
+	<div class="col-sm-9 noP">
+  <nav class="navbar nav navbar-default" role="navigation" style="margin-bottom:0;">
+  <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+    	<a href="https://www.prepostseo.com/"><img src="https://www.prepostseo.com/imgs/prepostseo.png" alt="PrePost SEO" height="36" class="pull-left logo"></a>
+      <button type="button"  class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+          </div>
+	<style>
+		.sponser-link {position:relative;}
+		.sponser-link .list-links {width:100%; display:none;position:absolute; z-index:85;background:#fff; padding:5px 0;}
+		.sponser-link:hover .list-links {display:block;}
+		.sponser-link .list-links a {display:block; padding:4px 7px; border-bottom:1px solid #eee; color:#777; text-align:center;}
+		.sponser-link .list-links a:hover {font-weight:700;color:#555;}
+    </style>
+      
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="navbar-collapse collapse noP col-md-8" id="bs-example-navbar-collapse-1" aria-expanded="false">
+      <ul class="nav navbar-nav">
+      			<li class="nav-menu"><a href="https://www.prepostseo.com/plagiarism-checker">Plagiarism Checker</a></li><li class="nav-menu"><a href="https://www.prepostseo.com/domain-authority-checker">DA Checker</a></li><li class="nav-menu"><a href="https://www.prepostseo.com/paraphrasing-tool">Paraphrasing Tool</a></li>        <li class="nav-menu hidden-xs">
+        	<a href="https://www.buysellguestpost.com/marketplace" rel="nofollow sponsored" target="_blank"><i class="fa fa-heart" style="color:#28C63B"></i> Guest Post Service</a>
+        </li>
+        
+        <li class="nav-menu"><a href="https://www.prepostseo.com/plans"><i class="fa fa-star text-primary"></i> Premium Plans</a></li>
+        
+        
+        <li class="nav-menu hidden-lg hidden-md hidden-sm"><a href="https://www.prepostseo.com/contact"><i class="fa fa-phone"></i> Contact Us</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+	</nav>
+    </div>  
+     
+    <div class="pull-right col-sm-3 col-xs-12 text-right" style="padding:0;" id="searchSec" >
+    	
+                <a href="https://www.prepostseo.com/login" class="logregBtn">Register</a>
+        <a href="https://www.prepostseo.com/login" class="logregBtn">Login</a>
+                
+        
+        <i class="fa fa-search pull-right topsearch"></i>
+    </div>	
+    </div>
+	
+	<div class="sbNew">
+    	<div class="container">
+        	<div class="col-md-12 noP">
+            	<div class="col-md-8 col-md-offset-2 noP sbNewinner" id="h_top_search">
+                	<input class="inputSN" id="inputSN" type="search" />
+                    <span class="cross" id="crossNS">X</span>
+                    <div class="search-results" style="display:none;">
+                      <div class="withlangSearch"></div>
+                      <div class="withoutlangSearch"></div>
+                      <div class="noresult"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="clear:both;"></div>
+<script>
+    docReady(function(e) {
+        $(".navbar-toggle").click(function(){
+        	$("#bs-example-navbar-collapse-1").toggleClass("collapse");
+        });
+    });
+</script>
+    </header>
+    	
+
+    <style type="text/css">
+    @media only screen and (max-width: 640px) {
+        .mce-btn button{
+            font-size: 11px;
+        }
+        #mceu_25{
+            overflow: hidden;
+        }
+    }
+    span.rBtns{
+        border:1px solid #3c5057;
+    }
+    #div-to-expand.fullscreen
+    {
+        z-index: 9999;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
+    .fullscreen #textbox_ifr {
+        height: 78% !important;
+        overflow: auto;
+    }
+    .expandBtn
+    {
+        text-align: right;
+        padding-right: 7px;
+        position: absolute;
+        top: 42px;
+        z-index: 999;
+        right: 14px;
+        opacity: 0.5;
+        cursor: pointer;
+    }
+    .expandBtn:hover
+    {
+        opacity: 1;
+    }
+    #textbox_ifr {
+        padding-right: 11px;
+    }
+    @media screen and (max-width:426px){.expandBtn{display: none!important;top: 116px !important;}}@media screen and (max-width:991px) and (min-width:426px){.expandBtn{top: 42px !important;}}
+</style>
+
+<div class="text-center pps-spr pps-spr-lumba-daba pps-spr-after-heading" id="top-head-ad" style="display:block;width:728px;height:120px;margin:0 auto;margin-bottom:20px;"><span style="font-size:12px;">ADVERTISEMENT</span><br></div></div>
+<!-- Main Site -->
+
+<div class="container-fluid">
+    <div class="container noP">
+        <div class="leftcol">
+            <div class="col-md-12 shadowBox">
+                <h1 class="h_tool">Online Text Editor</h1>
+                <p class="text16 text-center">To use this Online Text Editor type in the plain text editor below.                </p>
+                <div class="col-xs-12 text-center" id="after_title_ad" style="margin:10px 0 20px 0;min-height:310px">
+<span style="font-size:12px;">ADVERTISEMENT</span><br>
+ 
+ 
+ 
+</div>
+                <!-- Content Section -->
+
+
+                <div class="col-xs-12 form">
+                    <div id="div-to-expand" class="text-sec">
+                        <div class="col-md-12 p-0">
+                            <form action="" method="post" enctype="multipart/form-data" id="form" target="_blank">
+                                <div class="cs-editor">
+                                    <div class="expandBtn" onclick="expandfullscreen(this)">
+                                        <img src="https://www.prepostseo.com/imgs/full-screen.svg?v=1.1" width="17">
+                                    </div>
+                                    <textarea class="form-control w-textbox" id="textbox" name="textbox" required="required" rows="10" placeholder="Start typing here..."></textarea>
+                                    <input type="hidden" name="saveas" id="saveas" value="word">
+                                </div>
+                                <br>
+                                <input name="save_type" value="pdf" type="hidden" id="sv_type"/>
+                                <input name="tool_submit" value="1" type="hidden"/>
+                                <p class="text-center">
+                                    <span class="rBtns btn-success text-white"  onClick="saveAsPdf()">Save as PDF</span>
+                                    <span class="rBtns btn-success text-white" onClick="saveAsDoc()">Save as DOC</span>
+                                    <span class="rBtns btn-success text-white" onClick="checkPlag()">Check Plagiarism</span>
+                                    <span class="rBtns btn-success text-white" onClick="checkGrammar()">Check Grammar</span>
+                                    <span class="rBtns btn-success text-white" onClick="checkParaphrase()">Paraphrase It</span>
+                                </p>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <form action="https://www.prepostseo.com/plagiarism-checker" method="post" target="_blank" id="PlagForm">
+                <textarea style="resize:none; display:none;" class="rContent" name="unique-content-data"></textarea>
+            </form>
+            <form action="https://www.prepostseo.com/grammar-checker" method="post" target="_blank" id="grammarForm">
+                <textarea style="resize:none; display:none;" class="rContent" name="remoteData"></textarea>
+            </form>
+            <form action="https://www.prepostseo.com/paraphrasing-tool" target="_blank" method="post" id="paraphraseForm" style="display:none;" >
+                <textarea class="rContent" id="paraphraseData" name="innerText"></textarea>
+            </form>
+
+            	<div class="col-xs-12 text-center pps-spr pps-spr-lumba-daba pps-spr-after-button" id="after_button_ad_desktop" style="min-height:250px">
+		</div>
+            <div class="container-fluid normal-section">
+                <div class="col-lg-12 noP tool-content">
+                    <div class="col-md-12 bdr">
+                        <style>
+.toc_container{width:100%;}
+.toc_container .shareit{text-align: center;padding-top: 0px!important;}
+</style>
+<div class="row">
+    <div class="col-sm-6">
+        <div class='toc_container'><p class='toc_title'>Table of Contents:</p><ul class='toc_list'><li class="d-block pb-1"><a href="#online-text-editor">Online Text Editor</a></li><li class="d-block pb-1"><a href="#plain-text-editor-no-installation-needed">Plain Text Editor - No installation needed</a></li><li class="d-block pb-1"><a href="#how-can-you-edit-the-text-using-wordpad-online">How can you edit the text using Wordpad online?</a></li><li class="d-block pb-1"><a href="#free-online-text-editor-with-no-access-limitations">Free online text editor with no access limitations</a></li><li class="d-block pb-1"><a href="#effective-error-free-editing-in-very-less-time">Effective error-free editing in very less time</a></li></ul></div>    </div>
+    <div class="col-sm-6">
+        <form>
+        <div class="toc_container improveContainer">
+            <p class="toc_title">Is this tool helpful?</p>
+            <p id="improveerrorp"></p>
+            <form>
+
+                <div class="dhide form-group" style="margin-bottom:0px;">
+                                        <input type="hidden" id="toolMode" value="">
+                    <label><input type="radio" name="helpful" value="Yes" checked/>&nbsp;Yes</label> &nbsp;
+                    <label><input type="radio" name="helpful" value="No"/>&nbsp;No</label> &nbsp;
+                    <label><input type="radio" name="helpful" value="Maybe"/>&nbsp;Maybe</label> &nbsp;
+                </div>
+                <div class="dhide form-group">
+                    <p>How can we improve it?</p>
+                    <textarea class="form-control" name="improvements" id="improveBody"></textarea>
+                </div>
+                <div class="form-group" style="display: none;" id="emailDiv">
+                    <p>Enter E-mail to get response?</p>
+                    <input type="email" name="user_email" class="form-control" id="user_email">
+                </div>
+                <button class="g-recaptcha" id="improve-captcha" data-sitekey="6Le2mnYUAAAAABxIETPi7aXvxTVCuav6AicdFq5U" style="display:none;" data-callback="onSubmitImprove"></button>
+                <span class="btn btn-success" id="improveTool" style="margin:10px 0;">Submit</span>
+            </form>
+        </div>
+        </form>
+    </div>
+</div>
+<h2 style="text-align:center" id="online-text-editor">Online Text Editor</h2>    <hr />  <p>Even the best content submissions get rejected if they have grammatical issues. Students face such issues regularly when they are working on essays and other research assignments. Consider that you have to submit a research paper on agile project management. While writing a research paper, one has to focus on two major sections. One is carrying out complete research so that all points mentioned in the scope are covered properly. Research papers are rejected if there is content redundancy. The second important requirement is the submission of grammatically correct content.&nbsp; Reading through every line of the research paper would be a very tough task for students. Prior to submission, each line would have to read to correct the mistakes. In terms of time, this is a very exhausting process that can be avoided easily. Using this online text editor, you can make a content submission without any mistakes.</p>    <hr />  <h2 id="plain-text-editor-no-installation-needed"><strong>Plain Text Editor - No installation needed</strong></h2>    <p>Installing a plain text editor is a big hassle as well. Before anything, you need to check the compatibility of the laptop, tablet or smartphone on which the installation has to be done. When you are sure that the editor would work on the selected machine, you can proceed with the installation. If you wish to use the editor on multiple devices, an individual installation has to be done on each one of them. For instance, students do have text editing tools on their tablets and smartphones as well. This gives them the option to perform editing tasks while being on the move. For instance, when a student is commuting and suddenly remembers that an assignment has to be edited, the easiest way would be using this online editor.</p>    <ul>  	<li>No installations or cumbersome downloads are needed to use this edit pad. If your device has network connectivity, this tool can be used easily. There is no need to go through any setup files.</li>  </ul>    <hr />  <h2 id="how-can-you-edit-the-text-using-wordpad-online"><strong>How can you edit the text using Wordpad online?</strong></h2>    <p>The user interface of the online Wordpad is incredibly easy. Whether you are a student, working professional, teacher, or any other user who wishes to edit content, this tool would work perfectly for you. Let us go through the steps you need to complete to gain more understanding.</p>    <ol>  	<li>  	<h3><strong>Content uploading / pasting </strong></h3>  	</li>  </ol>    <p>There is a section in which you have to paste the required content or write it from the start. The tool has a list of quality writing/editing options and you can modify a document on end to end basis. For instance, there is an option to insert a table as well. At times, corporate professionals have to insert tables at the last minute prior to submission.</p>    <ul>  	<li>Consider that you are a finance professional and your boss tells you to insert the updated audit report of the company. This is when you would need to insert a table with the required details. With this online text editor, you can perform all such options with ease. There is no need to download rigorous editing tools and using them for finalizing content.</li>  </ul>    <ol>  	<li value="2">  	<h3><strong>Saving Options for users</strong></h3>  	</li>  </ol>    <p>If you have created a document from the start using this online tool or need to finalize an existing one, you can save it using two formats. After completing the editing tasks, click the &ldquo;save as word&rdquo; or &ldquo;save as PDF&rdquo; option depending on your needs. For instance, students mostly have to submit their assignments and essay papers in word format. Similarly, the finance professional would make a submission in the PDF format.</p>    <hr />  <h2 id="free-online-text-editor-with-no-access-limitations"><strong>Free online text editor with no access limitations</strong></h2>    <p>The best thing about online tools is that they do not have device-based usage restrictions. When you are using offline tools, they can only be used after the installation has been done successfully on a device. If you wish to use the tool on three devices simultaneously, the installation would be done on each of them. This online text editor is not dependent on installations in any manner. It can be easily accessed on multiple devices with internet connectivity without any installation steps. It is the best alternative of <a href="https://www.editpad.org/" target="_blank">Editpad</a>.</p>    <ul>  	<li>At times, one has to perform editing tasks for multiple documents. Consider that you are working on a detailed research paper and all the sections have to be edited individually. Considering this requirement, you need a tool that is free and can be used as many times as needed. This plain text editor is a free tool and no limitations have to be faced by the user. It is recommended for students, corporate professionals, marketing personnel and other user types.</li>  </ul>    <hr />  <h2 id="effective-error-free-editing-in-very-less-time"><strong>Effective error-free editing in very less time</strong></h2>    <p>There is no room for errors in content submissions. If you are a human resource professional and submit a job description with grammatical or format mistakes, your boss would not be happy at all. At the educational or professional level, the content would be free of mistakes irrespective of the form in which it is submitted.</p>    <ul>  	<li>Every content submission has a timeline that should be met by the writer. If you are a student, the research submission, essay paper, or even daily assignments would have deadlines. You need to divide the writing and editing tasks according to the time available. This tool helps in saving all the time which would have been spent on&nbsp;editing tasks. As a result, the submission can be done without risking timelines.</li>  </ul>    <ul>  	<li>When you talk about editing content, having one error has the same negative impact as several mistakes. Thus, a text editor should only be used if it reads through the content properly and identifies all the made errors. With this tool, you can be absolutely sure that no errors would go undetected. Checking the content without a tool through reading does not have the same efficiency level. Hence, to save time and produce content without errors, using this free online text editor is one of the best ways out. This tool is easy to use and even if you have basic knowledge of using online applications, you can use it easily.</li>  </ul>Other Languages :  <a href="/tool/online-text-editor" class="otherlangtitle">Online Text Editor</a>, <a href="/tool/es/online-text-editor" class="otherlangtitle">editor de texto</a>,                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rightcol">
+            <div class="sidebarR">
+
+
+
+<div class="rtbg clear greybox">
+<span class="h">Related Tools</span>
+           <a href="https://www.prepostseo.com/code-to-text-ratio">Code to Text Ratio</a>
+           <a href="https://www.prepostseo.com/text-compare">Text &amp; File Compare</a>
+           <a href="https://www.prepostseo.com/word-counter">Word Counter</a>
+           <a href="https://www.prepostseo.com/small-text-generator">Small Text Generator</a>
+</div>
+<div class="text-center">
+</div>
+<div class="col-xs-12 text-center clear noP pps-spr pps-spr-choras-daba pps-spr-sidebar" id="sidebar_ad" style="margin:10px 0;height:600px;margin-bottom: 34px;">
+<span style="font-size:12px;">ADVERTISEMENT</span>
+<!--<pre>prepostseo_sidebar_top all:[300,600]/dfp:[300,601]</pre>-->
+</div>
+<style>#carbonads{position:relative;display:flex;width:300px;height:250px;background-color:#fff;box-shadow:inset 0 0 1px 1px hsla(0,0%,0%,.15);text-align:center;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",Helvetica,Arial,sans-serif;justify-content:center;align-items:center}#carbonads a{color:#111;text-decoration:none}#carbonads a:hover{color:#111}#carbonads span{display:block;overflow:hidden}.carbon-img{display:block;margin:0 0 8px;line-height:1}.carbon-img img{max-width:150px!important;width:150px;height:auto}.carbon-text{display:block;margin-bottom:8px;padding:0 10px;font-weight:500;font-size:16px;line-height:1.35}.carbon-poweredby{position:absolute;right:10px;bottom:10px;display:block;padding:5px 6px;border-radius:2.5px;background-color:hsl(246,93%,69%);color:#fff!important;text-transform:uppercase;letter-spacing:.5px;font-weight:600;font-size:8px;line-height:1}</style>
+<div id="carbon-block"></div>
+
+
+
+
+<a property="item" typeof="WebPage" href="https://www.prepostseo.com/">Home</a> ›
+<a property="item" typeof="WebPage" href="https://www.prepostseo.com/tool/">Tools</a> ›
+Online Text Editor<hr style="margin:5px 0;">
+
+
+
+<div class="col-md-12 clear text-center text16 rbs otherlangBtns greybox" >
+<h4 class="lh"><strong>&mdash; Languages  &mdash;</strong></h4>
+
+<a href="/tool/online-text-editor" class="btn btn-default">English</a>
+<a href="/tool/es/online-text-editor" class="btn btn-default">Español</a>
+
+</div>
+
+
+<div class="col-md-12 noP sticky">
+
+<div class="col-xs-12 text-center pps-spr pps-spr-choras-daba pps-spr-sidebar noP" id="sidebar_ad_big" style="margin-top:0px;min-height:250px">
+<span style="font-size:12px;">ADVERTISEMENT</span>
+<!--<pre>prepostseo_sidebar_1 all:[300,250],[300,600]/dfp:[300,251],[300,601]</pre>-->
+</div> 
+</div>
+<script>
+docReady(function() {
+	var height = $(".sidebarR").parent().parent().height();
+	$(".sidebarR").css({"height":height+"px"});
+});
+</script>
+
+</div>        </div>
+    </div>
+
+</div>
+</div>
+
+
+<!-- ./Main Site -->
+
+
+
+<div class="container-fluid normal-section">
+    <div class="container">
+            </div>
+</div>
+
+
+
+    <footer>
+    	<div class="container">   
+    <div class="col-sm-12" style="padding:10px 0px;">
+    	<div class="col-sm-4 noP" style="padding-right:20px;">
+        	<img src="https://www.prepostseo.com/imgs/prepostseo-logo-white.png" height="30" alt="prepostseo" >
+            <hr>
+            <p>By Developing 75+ online tools for students, writers and SEO experts, PREPOSTSEO is one of the top free tools websites.</p>
+            <p>2019 &copy; PrePost SEO</p>
+            <img src="https://www.prepostseo.com/imgs/ssl-badge.png" width="120"  alt="Prepostseo SSL" /> 
+        	 
+        </div>
+         
+        <div class="col-sm-5 noP" style="padding-right:20px;">
+        	<p class="fh">Prepostseo Services</p> <hr style=" margin:10px 0;" /> <a style="color:#3ACD99;" href="/blog/"><strong>PREPOSTSEO BLOG</strong></a><a href="/plagiarism-checker-api">Plagiarism APIs</a><a href="https://wordpress.org/plugins/prepost-seo/" target="_blank" rel="nofollow noreferrer">Wordpress PrePost SEO Plugin</a><a href="/seo-tools-widgets">SEO Tools Widgets</a><a href="https://www.prepostseo.com/tool/">More Tools</a>
+            <hr style=" margin:10px 0;" />
+            <a href="https://www.facebook.com/prepostseo/" target="_blank" class="fbtn"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com/prepostseo" target="_blank" class="fbtn"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/company/prepostseo/" target="_blank" class="fbtn"><i class="fa fa-linkedin"></i></a>
+            <a href="https://play.google.com/store/apps/developer?id=prepostseo.com" target="_blank" class="fbtn"><i class="fa fa-android"></i></a>
+            <a href="https://apps.apple.com/us/app/plagiarism-checker-prepostseo/id1463941368" target="_blank" class="fbtn"><i class="fa fa-apple"></i></a>
+        </div>
+        <div class="col-sm-3 noP" style="padding-right:20px; padding-bottom:80px;">
+        	
+        	<p class="fh">Resources</p> <hr style=" margin:10px 0;" /> <a href="/about">About us</a><a href="/contact">Contact us </a><a href="/advertise">Advertise</a><a href="/faqs">FAQs</a><a href="/privacy-policy">Privacy Policy</a><a href="/refund-policy">Refund Policy</a><a href="/terms-of-use">Terms of use</a>
+        </div>      
+            </div>
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-67516616-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-67516616-1');
+</script>
+
+
+
+
+<script src="https://www.prepostseo.com/assets/lib/js/jquery-3.4.1.min.js"></script>
+<!-- <script type="text/javascript" src="https://www.prepostseo.com/assets/pps-frontend/lib/tinymce/jquery.tinymce.min.js"></script>
+<script type="text/javascript" src="https://www.prepostseo.com/assets/pps-frontend/lib/tinymce/tinymce.min.js"></script>
+<script type="text/javascript" src="https://www.prepostseo.com/js/bottom-js-files/online-text-editor.js"></script> -->
+
+<script>
+    var jFiles = ['https://www.prepostseo.com/assets/pps-frontend/lib/tinymce/jquery.tinymce.min.js','https://www.prepostseo.com/assets/pps-frontend/lib/tinymce/tinymce.min.js','https://www.prepostseo.com/js/bottom-js-files/online-text-editor.js?v=4.3'];
+     var ttime = 500;     loadFiles(jFiles,ttime);
+    function loadFiles(links=[], time) {
+        setTimeout(() => {
+            if(Array.isArray(links)){ links.map(link => { $('body').append('<script src="'+link+'"></\script>'); })
+
+            }
+        }, time);
+    }
+</script>
+
+ <!-- GOOGLE PUSH NOTIFICATIONS -->
+
+<script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-messaging.js"></script>
+<script>
+var mycl_url = '';
+function getCookie(name) {
+	// Split cookie string and get all individual name=value pairs in an array
+	var cookieArr = document.cookie.split(";");
+	// Loop through the array elements
+	for(var i = 0; i < cookieArr.length; i++) {
+		var cookiePair = cookieArr[i].split("=");
+
+		/* Removing whitespace at the beginning of the cookie name
+		and compare it with the given string */ 
+		if(name == cookiePair[0].trim()) {
+			// Decode the cookie value and return
+			return decodeURIComponent(cookiePair[1]);
+		}
+	}
+	return 'notfound';
+}
+var config = {
+	'messagingSenderId': '92559724874',
+	'apiKey': 'AIzaSyBP-NUGRqcYumoIt41KMd8ujDx6kroa_Jw',
+	'projectId': 'quickstart2-1595232281598',
+	'appId': '1:92559724874:web:cc91c94a3ad69ccd7a31b3',
+};
+firebase.initializeApp(config);
+const messaging = firebase.messaging();
+messaging
+.requestPermission()
+.then(function () {
+	console.log("Notification permission granted.");
+	return messaging.getToken()
+})
+.then(function(token) {
+	console.log(token);
+	var pushTok = getCookie("push_token");
+	console.log("yeh "+pushTok);
+	if (pushTok != '' && pushTok != 'notfound') {
+		if (pushTok != token) {
+
+			saveTokn(token,'updated');
+		}
+	}
+	else
+	{
+		saveTokn(token,'saved');
+	}
+
+	
+})
+.catch(function (err) {
+	console.log("Unable to get permission to notify.", err);
+});
+let enableForegroundNotification = true;
+messaging.onMessage(function(payload) {
+	console.log("Message received. ", payload);
+	// NotisElem.innerHTML = NotisElem.innerHTML + JSON.stringify(payload);
+		var payll = JSON.parse(payload.data.notification);
+	mycl_url = payll.click_action;
+	if(enableForegroundNotification) {
+		const {title, ...options} = JSON.parse(payload.data.notification);
+		navigator.serviceWorker.getRegistrations().then(registration => {
+			registration[0].showNotification(title, options);
+		});
+	}
+});
+
+function saveTokn(token,state)
+{
+	var urrl = "https://www.prepostseo.com/tool/online-text-editor"
+	$.ajax({
+		url:"https://www.prepostseo.com/frontend/savePushToken",
+		method:"post",
+		data:{submit:true,token:token,state:state,reg_page:urrl},
+		success:function(resp)
+		{
+			console.log('token '+state);
+		}
+	});
+}
+</script>
+
+
+
+<div class="bg-dark" style="display:none"></div>
+<script>
+function load_ads(ads_ids,append=0){
+	if(Array.isArray(ads_ids)){
+		setTimeout(() => {
+			if(append == 1){
+				var code = `
+											 
+							<script async src="https://cdn.snigelweb.com/adengine/prepostseo.com/loader.js" type="text/javascript"></\script>
+																`;
+				$('head').append(code);
+
+
+				var adcheckCode = `					<script>
+					fetch('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
+					.catch(() => adblockDetected());
+					fetch('https://www.prepostseo.com/ad.js')
+					.catch(() => adblockDetected());
+					function adblockDetected() {
+						$('body .text-sec .btn-success').unbind( "click" ).attr("onclick","showDabay2();return false;").attr("id","newone");
+						adblocker = 1;
+						var carbonScript = document.createElement("script");
+						carbonScript.src = "//cdn.carbonads.com/carbon.js?serve=CE7DC53I&placement=wwwprepostseocom";
+						carbonScript.id = "_carbonads_js";
+						document.getElementById("carbon-block").appendChild(carbonScript);
+					}
+					function showDabay2(){
+							$.ajax({
+								url : "https://www.prepostseo.com/frontend/adblockerView",
+								data : {'url':"https://www.prepostseo.com/tool/online-text-editor"},
+								success: function(resp){
+									var MsgB = resp;
+									if(typeof tool_title !== 'undefined'){
+										$(".bg-dark").html(MsgB).show();
+									}
+									$(".bg-dark").on('click', '.gotit', function(){$(".bg-dark").hide();});
+									return false;
+								}
+							});
+						}
+					</\script>
+
+				 `;
+				$('footer').append(adcheckCode);
+			}
+			ads_ids.map(aid => {
+				var ad = get_ads[aid];
+				// console.log(aid,ad);
+				if(aid == "FT_AD"){
+					$('body').append(ad[1]);
+				}else{
+					if($('#'+ad[0]).length>0)$('#'+ad[0]).append(ad[1]).css("background","transparent");
+				}
+			});
+		}, 1300); 
+	}
+}
+ 
+
+
+	var ftAd = `<div id="floorad-wrapper" style="background:#f2f7f9!important;width:100%;bottom:0;position:fixed;box-shadow: 0 0 4px rgba(0, 0, 0, 0.8);text-align: center;padding-top:4px;">
+		<a id="close-floorad-btn" onclick="hideFAd()" style="color:#000!important;display:inline-block;height:18px;padding:2px;background:#fff;cursor:pointer;float:right;box-shadow: 0 0 4px rgba(0, 0, 0, 0.8);border-radius: 8px 0 0 0;margin-top: -28px;">&#10006;</\a>
+		<div id="sticky-ad-background"></\div>
+		<div id="adngin-footer_sticky-0"></\div>
+		</\div>
+		<script>
+		function hideFAd(){
+			document.getElementById("floorad-wrapper").setAttribute("style", "display:none;");
+		};
+		</\script>`;
+
+
+const get_Ad = {
+	_300x250: '<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7155931151667823" data-ad-slot="9551764697" data-ad-format="auto" data-full-width-responsive="true"></\ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</\script>',
+	_728x90: '<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-7155931151667823" data-ad-slot="4655584988"></\ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</\script>',
+	_728x90_top_ad: '<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-7155931151667823" data-ad-slot="2135462195"></\ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</\script>',
+	_inResult_ad: '<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-7155931151667823" data-ad-slot="2301855164"></\ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</\script>',
+	_336x280: '<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-7155931151667823" data-ad-slot="3954599603"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</\script>',
+	//_600sidebar:'<div id="snhb-prepostseo_sidebar_top-0" style="height:600px;"></div>',
+	//_250minsidebar: '<div id="snhb-prepostseo_sidebar_1-0"></div>',
+	_600sidebar:'<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7155931151667823" data-ad-slot="2197000072"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</\script>',
+	_250minsidebar: '<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7155931151667823" data-ad-slot="6131269984"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</\script>', 
+	_600sidebarTop:'<div id="adngin-sidebar_top-0" style="height:600px;"></div>',
+	_600sidebarBottom:'<div id="adngin-sidebar_1-0"></div>',
+	_ftclose: ftAd
+}
+const get_ads = {
+	BH_AD: ['top-head-ad-mobile', get_Ad['_300x250']],
+	AH_AD: ['top-head-ad', get_Ad['_728x90']],
+	BTN_AD: ['above_button_ad', get_Ad['_728x90_top_ad']],
+	AF_BTN_AD:['after_button_ad',get_Ad['_300x250']],
+	AF_BTN_AD_D:['after_button_ad_desktop',get_Ad['_250minsidebar']],
+	AT_AD: ['after_title_ad', get_Ad['_336x280']],
+	SB_AD: ['sidebar_ad', get_Ad['_600sidebarTop']],
+	INR_AD: ['in_result_ad', get_Ad['_inResult_ad']],
+	SBBIG_AD:['sidebar_ad_big',get_Ad['_600sidebarBottom']],
+	FT_AD:['body',get_Ad['_ftclose']]
+}
+docReady(() => {
+	load_ads(['BH_AD','AH_AD','BTN_AD','AF_BTN_AD_D','AT_AD','SB_AD','SBBIG_AD','INR_AD','AF_BTN_AD'],1);
+		load_ads(['FT_AD'],0);
+	});
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-67516616-1', 'auto');ga('send', 'pageview');
+</script>
+
+
+<script src="https://use.fontawesome.com/43844833b2.js"></script>
+<script src="https://www.prepostseo.com/assets/lib/js/functions.js?v=26"></script>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<script type="application/javascript">
+docReady(function(){
+		var shareItHtml = '<div class="shareit" style="padding-top: 30px; clear: both;"><img height="30" src="https://www.prepostseo.com/imgs/shareitt.png?v=2.0"/><a class="btn btn-primary btn-ad-share" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.prepostseo.com/tool/online-text-editor"><i class="fa fa-facebook"></i></a><a class="btn btn-primary btn-twitter btn-ad-share" target="_blank" href="https://twitter.com/share?url=https://www.prepostseo.com/tool/online-text-editor"><i class="fa fa-twitter"></i></a><a class="btn btn-primary btn-ad-share" target="_blank" href="https://www.linkedin.com/cws/share?url=https://www.prepostseo.com/tool/online-text-editor"><i class="fa fa-linkedin"></i></a></div>';
+	$('.shadowBox').first().append(shareItHtml);
+		$("#h_top_search #inputSN").on("keyup" , function(){
+		var search = $(this).val();
+		var langSearch = "";
+		if(search.length < 2){
+			return false;
+		}
+		search_bar(search,langSearch,"#h_top_search");
+	});
+	});
+</script>
+
+    </footer>
+	<div class="loadfeedbackwrapper"><span onclick="gotofeedBack()" id="feedback"  class="btn border-0 btn-sm" data-toggle="tooltip" data-placement="right" title="Send Us Feedback"><span class="hidden-xs">Feedback&nbsp;</span><i class="fa fa-comments"></i></span> </div>
+    <div id="loadFeedback"></div>
+    <div id="mainOverlay"><div class="lds-dual-ring" style="top: 46%;left: 48%;"><img src="https://www.prepostseo.com/imgs/pps.svg"/></div></div>
+</div>
+</body>
+</html>
