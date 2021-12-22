@@ -12,7 +12,7 @@ Another exciting feature is the introcution to TrinityOS Defender, a program des
 The V.0621 Update (aka the June update) brings many new back end additions, such as a makefile, custom libraries, start of a userland, and many others. There is also a slight visual change in the desktop background color.
 
 # Developer's Note
-Sadly, I was unable to get TrinityOS running on actual hardware in time for the V.1121 update, but keep your hopes up for next month :^)
+Sadly, I was unable to get TrinityOS running on actual hardware in time for the V.1221 update, but keep your hopes up for next month :^)
 
 # Commit
 If you want to commit and partake in the development of TrinityOS, email me at jakoblong2006@gmail.com, and we will go from there :^)
