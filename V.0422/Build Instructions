@@ -1,4 +1,4 @@
- # How to build TrinityOS
+ How to build TrinityOS
 
  1: Open a terminal in this directory (V.0322)
  2: run "bash setup.sh" to run setup.sh (this installs all the required components to build TrinityOS)
