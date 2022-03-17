@@ -1,6 +1,9 @@
 # TrinityOS
 TrinityOS is a free and open source hobbyist OS I have been working on since Febuary 2021.
 
+# V.0422 Update
+The V.0422 Update (aka the April 2022 update) introduces a few new beta features. TFS (Temporary File System), is a simple version of a RAM file system (more functionality coming soon.) There is also the introduction of the new Quick Menu. The Module Subsystem has also been redesigned to more functional.
+
 # V.0122 Update
 The V.0122 Update (aka the January 2022 update) brings about a new way to make apps for TrinityOS. With the introduction of the module subsystem, you can now easily create apps and programs for TrinityOS, without having to understand the entire source code. Modules are loaded into the kernel during boot, and are easily executable within Text Mode. Along with that, there are some new additions to the desktop. When you close a window, it now displays the window title in the taskbar. There is also a new Christas theme to TrinityOS.
 
