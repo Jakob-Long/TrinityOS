@@ -1,6 +1,9 @@
 # TrinityOS
 TrinityOS is a free and open source hobbyist OS I have been working on since Febuary 2021.
 
+# Developer's Note
+Visit the "Working ISO's" directory for all working ISO's
+
 # V.0422 Update
 The V.0422 Update (aka the April 2022 update) introduces a few new beta features. TFS (Temporary File System), is a simple version of a RAM file system (more functionality coming soon.) There is also the introduction of the new Quick Menu. The Module Subsystem has also been redesigned to be more functional.
 
@@ -16,10 +19,6 @@ Another exciting feature is the introcution to TrinityOS Defender, a program des
 
 # V.0621 Update
 The V.0621 Update (aka the June update) brings many new back end additions, such as a makefile, custom libraries, start of a userland, and many others. There is also a slight visual change in the desktop background color.
-
-# Developer's Note
-- Sadly, I was unable to get TrinityOS running on actual hardware in time for the V.1221 update, but keep your hopes up for next month :^)
-- While the module subsystem has some bugs and is not entirely complete, I plan to have a final version out soon.
 
 # Commit
 If you want to commit and partake in the development of TrinityOS, email me at jakoblong2006@gmail.com, and we will go from there :^)
