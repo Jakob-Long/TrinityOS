@@ -1,6 +1,8 @@
 # TrinityOS
 TrinityOS is a free and open source hobbyist OS I have been working on since Febuary 2021.
 
+# Commit
+If you want to commit and partake in the development of TrinityOS, email me at jakoblong2006@gmail.com, and we will go from there :^)
 
 # V.0522 Update
 The V.0522 Update (aka the May 2022 update) has fixed bugs with the Quick Menu. Modules added to the Module Subsystem have also become more easy execute. The 2 desktop "themes" now serve as a virtual desktop, where your state in each environment is saved. Finally, the ISO file in the "img" directory (V.0522/img/TrinityOS.iso) now runs on actual hardware. See "build instructions" (V.0522/Build Instructions) for more info regarding that.
@@ -20,6 +22,3 @@ Another exciting feature is the introcution to TrinityOS Defender, a program des
 
 # V.0621 Update
 The V.0621 Update (aka the June update) brings many new back end additions, such as a makefile, custom libraries, start of a userland, and many others. There is also a slight visual change in the desktop background color.
-
-# Commit
-If you want to commit and partake in the development of TrinityOS, email me at jakoblong2006@gmail.com, and we will go from there :^)
