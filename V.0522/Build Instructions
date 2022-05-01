@@ -1,8 +1,22 @@
  How to build TrinityOS
-
  1: Open a terminal in this directory (V.0322)
  2: run "bash setup.sh" to run setup.sh (this installs all the required components to build TrinityOS)
- 3: run"make run" to compile and run TrinityOS 
+ 3: run "make run" to compile and run TrinityOS 
+ 
+ 
+ How to make bootable USB
+ 1: Download V.0522 folder to your desktop.
+ 2: Download Rufus (https://rufus.ie/en/)
+ 3: Open Rufus
+ 4: Select your USB device
+ 5: For boot selection, choose the ISO in the "img" folder in the V.0522 source code (V.0522/img/TrinityOS.iso)
+ 6: Click start and choose WRITE IN DD IMAGE MODE.
+ 
+ 
+ Note: Writing in DD image mode is the only way to get it to work, however your USB drive will not be able to be 
+ read by Windows, Mac,or Linux unless you reformat the drive in Diskpart. 
+ I AM NOT RESPONSABLE FOR ANY DAMAGE YOU MAY CAUSE TO YOUR DEVICE
+
 
  Contact me at jakoblong2006@gmail.com if you have any issues
  or join the TrinityOS Discord Server, https://discord.gg/U7WvzXkqYn
