@@ -5,7 +5,7 @@ TrinityOS is a free and open source hobbyist OS I have been working on since Feb
 Visit the "Working ISO's" directory for all working ISO's
 
 # V.0522 Update
-The V.0522 Update (aka the May 2022 update) has fixed bugs with the Quick Menu. Modules added to the Module Subsystem have also become more easy execute. The 2 desktop "themes" now serve as a virtual desktop, where your state in each environment is saved. Finally, the ISO file in the "img" directory (under the V.0522 directory) now runs on actual hardware. See "build instructions" for more info regarding that.
+The V.0522 Update (aka the May 2022 update) has fixed bugs with the Quick Menu. Modules added to the Module Subsystem have also become more easy execute. The 2 desktop "themes" now serve as a virtual desktop, where your state in each environment is saved. Finally, the ISO file in the "img" directory (V.0522/img/TrinityOS.iso) now runs on actual hardware. See "build instructions" (V.0522/Build Instructions) for more info regarding that.
 
 # V.0422 Update
 The V.0422 Update (aka the April 2022 update) introduces a few new beta features. TFS (Temporary File System), is a simple version of a RAM file system (more functionality coming soon.) There is also the introduction of the new Quick Menu. The Module Subsystem has also been redesigned to be more functional.
