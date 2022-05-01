@@ -1,9 +1,6 @@
 # TrinityOS
 TrinityOS is a free and open source hobbyist OS I have been working on since Febuary 2021.
 
-# Developer's Note
-Visit the "Working ISO's" directory for all working ISO's
-
 # V.0522 Update
 The V.0522 Update (aka the May 2022 update) has fixed bugs with the Quick Menu. Modules added to the Module Subsystem have also become more easy execute. The 2 desktop "themes" now serve as a virtual desktop, where your state in each environment is saved. Finally, the ISO file in the "img" directory (V.0522/img/TrinityOS.iso) now runs on actual hardware. See "build instructions" (V.0522/Build Instructions) for more info regarding that.
 
