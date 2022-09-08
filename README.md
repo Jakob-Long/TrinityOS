@@ -7,6 +7,9 @@ If you want to commit and partake in the development of TrinityOS, email me at j
 # Vision
 The vision I have for this project is to make it a super lightweight and portable OS that includes Linux like features. It is also designed to be highly customizable (the module subsystem allows developers to make their own executable programs that can do almost anything they want.) While yes, Linux offeres these features, creating them in a lightweight environment is a ton of fun. Thank you for looking at the project! :^)
 
+# V.0922 Update
+The V.0922 Update (aka the September 2022 update) has added small improvements to the Temporary File System (TFS) and the Module Subsystem. The window manager has also been updated with elevated privilages, allowing windows to be able to take input and update themselves (though more functionality will be added soon.)
+
 # V.0522 Update
 The V.0522 Update (aka the May 2022 update) has fixed bugs with the Quick Menu. Modules added to the Module Subsystem have also become more easy execute. The 2 desktop "themes" now serve as a virtual desktop, where your state in each environment is saved. Finally, the ISO file in the "img" directory (V.0522/img/TrinityOS.iso) now runs on actual hardware. See "build instructions" (V.0522/Build Instructions) for more info regarding that.
 
